@@ -1,0 +1,21 @@
+TripID,Date,VehicleType,Origin,Destination,Distance_km,Duration_min
+T001,2025-07-01,Bus,New York,Boston,346,240
+T002,2025-07-01,Train,Chicago,Detroit,454,300
+T003,2025-07-01,Car,Los Angeles,San Diego,195,135
+T004,2025-07-02,Bike,Amsterdam,Rotterdam,78,90
+T005,2025-07-02,Bus,San Francisco,Sacramento,141,120
+T006,2025-07-02,Train,Paris,Lyon,463,120
+T007,2025-07-03,Car,Berlin,Hamburg,289,180
+T008,2025-07-03,Bike,London,Oxford,95,110
+T009,2025-07-03,Bus,Tokyo,Yokohama,29,45
+T010,2025-07-04,Train,Rome,Naples,226,70
+T011,2025-07-04,Car,Mumbai,Pune,148,160
+T012,2025-07-04,Bus,Sydney,Canberra,286,180
+T013,2025-07-05,Train,Toronto,Ottawa,450,250
+T014,2025-07-05,Car,Dubai,Abu Dhabi,140,90
+T015,2025-07-05,Bike,Barcelona,Valencia,349,320
+T016,2025-07-06,Bus,Houston,Dallas,385,240
+T017,2025-07-06,Train,Beijing,Tianjin,117,40
+T018,2025-07-06,Car,Johannesburg,Pretoria,55,60
+T019,2025-07-07,Bike,Seoul,Incheon,40,50
+T020,2025-07-07,Train,Zurich,Geneva,279,160
